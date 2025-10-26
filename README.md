@@ -1,1 +1,1 @@
-# odin-recipes
+This is a test project I am doing through the Odin Project. In this example I will show off what I've learned so far in HTML to create a website and demonstrate my knowledge.
