@@ -1,1 +1,1 @@
-This is a test project I am doing through the Odin Project. In this example I will show off what I've learned so far in HTML to create a website and demonstrate my knowledge.
+This is a test project I am doing through the Odin project to demonstrate basic HTML coding experience. Below are links to various dishes along with ingredients and steps. I Hope you enjoy.
